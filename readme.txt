@@ -4,4 +4,4 @@
 
 Example:
 
-node allvideouser.js https://www.tiktok.com/@kawaiiwaii8?is_from_webapp=1&sender_device=pc
+node allvideouser.js https://www.tiktok.com/@hyundaimienbac89
